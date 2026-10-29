@@ -1,0 +1,3 @@
+system:index,CO_Change_Percent,Comparison,NO2_Change_Percent,SO2_Change_Percent,.geo
+0,2.716182412588963,During COVID vs Pre-COVID,-20.187763886180292,-21.653002377659455,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,-2.327553520463131,Post-COVID vs Pre-COVID,-10.741377478890232,45.413800507916974,"{""type"":""MultiPoint"",""coordinates"":[]}"

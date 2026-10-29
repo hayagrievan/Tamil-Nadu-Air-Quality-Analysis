@@ -1,0 +1,4 @@
+system:index,End_Date,Mean_CO_mol_m2,Mean_NO2_mol_m2,Mean_SO2_mol_m2,Period,Start_Date,.geo
+0,2019-06-01,0.03826128650977665,2.946089694236438E-5,4.72895093670345E-5,Pre-COVID 2019,2019-02-01,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,2020-06-01,0.03930053284478548,2.351340062888895E-5,3.704991077940703E-5,During-COVID 2020,2020-02-01,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,2022-06-01,0.03737073458864386,2.6296390793118193E-5,6.876547281215226E-5,Post-COVID 2022,2022-02-01,"{""type"":""MultiPoint"",""coordinates"":[]}"
